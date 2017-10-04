@@ -21,7 +21,7 @@ package com.us.pryor.numberwords
 import org.scalatest._
 
 /**
- * Test suite for the rope ADT.
+ * Test suite for the number translator.
  */
 class TranslatorSpec extends FlatSpec with Matchers {
 
